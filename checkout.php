@@ -108,6 +108,7 @@ if(isset($_POST['SUBMIT']))
                          <div class=\"col-xs-12 col-md-9\">
                            <b>Location:</b> $location_venue<br>
                            <b>Type:</b> $type_venue<br>
+                           <b>Price:</b> $price_venue<br>
                            <b>Size:</b> $size_venue<br>
                            <b>Website:</b><a href=\"https://$website_venue\"> $website_venue</a><br>
                            <b>Description:</b> $bio_venue<br>
@@ -158,6 +159,7 @@ if(isset($_POST['SUBMIT']))
                          <div class=\"col-xs-12 col-md-9\">
                            <b>Location:</b> $location_dj<br>
                            <b>Type:</b> $type_dj<br>
+                           <b>Price:</b> $price_dj<br>
                            <b>Music:</b> $music_dj<br>
                            <b>Website:</b><a href=\"https://$website_dj\"> $website_dj</a><br>
                            <b>Set/Reference:</b><a href=\"https://$reference_dj\"> $reference_dj</a><br>
@@ -352,6 +354,6 @@ if(isset($_POST['SUBMIT']))
          <script src="js/bootstrap.min.js"></script>
          <script src="js/parallax.js"></script>
          <script src="js/scripts.js"></script>
-         <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-82977805-1', 'auto'); ga('send', 'pageview'); </script>
+         <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-113387284-1', 'auto'); ga('send', 'pageview'); </script>
      </body>
  </html>

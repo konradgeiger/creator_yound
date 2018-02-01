@@ -107,6 +107,7 @@
                        <div class=\"col-xs-12 col-md-9\">
                          <b>Location:</b> $location[$b]<br>
                          <b>Type:</b> $type[$b]<br>
+                         <b>Price:</b> $price[$b]<br>
                          <b>Music:</b> $music[$b]<br>
                          <b>Website:</b><a href=\"https://$website[$b]\"> $website[$b]</a><br>
                          <b>Set/Reference:</b><a href=\"https://$reference[$b]\"> $reference[$b]</a><br>
@@ -161,6 +162,6 @@
         <script src="js/bootstrap.min.js"></script>
         <script src="js/parallax.js"></script>
         <script src="js/scripts.js"></script>
-        <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-82977805-1', 'auto'); ga('send', 'pageview'); </script>
+        <script> (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','https://www.google-analytics.com/analytics.js','ga'); ga('create', 'UA-113387284-1', 'auto'); ga('send', 'pageview'); </script>
     </body>
 </html>
